@@ -7,5 +7,5 @@ This is responsive website which uses Bootstrap3 to display the content of websi
 Also some features of javascript nad JQuery are also used to make website more user friendly. 
 
 You can visit the site using link:
-https://keyurmehta492.github.io/ResumeSite/Keyur_Mehta.html
+https://keyurmehta492.github.io/ResumeSite/index
 
