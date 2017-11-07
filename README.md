@@ -1,7 +1,4 @@
 # ResumeSite
-Personal Resume Site
-
-# ResumeSite
 Personal resume website
 
 Personal resume website is created using HTML5 and CSS3. 
