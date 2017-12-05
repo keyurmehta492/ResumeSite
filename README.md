@@ -8,4 +8,5 @@ Also some features of javascript nad JQuery are also used to make website more u
 
 You can visit the site using link:
 https://keyurmehta492.github.io/ResumeSite/index
+https://cs.iupui.edu/~mehtake
 
